@@ -8,8 +8,8 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="9.svg"
-   inkscape:export-filename="9.pdf"
+   sodipodi:docname="11.svg"
+   inkscape:export-filename="11.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,14 +28,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.74"
-     inkscape:cx="504.5977"
-     inkscape:cy="495.68965"
+     inkscape:cx="-205.74713"
+     inkscape:cy="668.67816"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g15-7"
+     inkscape:current-layer="g52"
      showgrid="false"
      showguides="true"
      inkscape:lockguides="false">
@@ -1323,24 +1323,24 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:3.42704, 0.611973;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         x="10.21461"
+         x="8.6271114"
          y="258.05331"
          id="text30"><tspan
            sodipodi:role="line"
            id="tspan30"
            style="stroke-width:0.245"
-           x="10.21461"
-           y="258.05331">Advance</tspan><tspan
+           x="8.6271114"
+           y="258.05331">• Advance</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="10.21461"
+           x="8.6271114"
            y="262.1279"
-           id="tspan31">Disengage</tspan><tspan
+           id="tspan31">• Disengage</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="10.21461"
+           x="8.6271114"
            y="266.20245"
-           id="tspan32">Ride Mount</tspan></text>
+           id="tspan32">• Ride Mount</tspan></text>
     </g>
     <g
        id="g54"
@@ -1874,14 +1874,14 @@
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           x="17.682482"
+           x="18.425432"
            y="71.94622"
            id="text2-8-82-4-9"><tspan
              sodipodi:role="line"
              id="tspan2-5-4-3-9"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-             x="17.682482"
-             y="71.94622">MANOEUVRES</tspan></text>
+             x="18.425432"
+             y="71.94622">MANEUVERS</tspan></text>
         <path
            id="rect2-2-3-1-71-5-8-7"
            style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -1891,54 +1891,59 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:3.42704, 0.611973;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         x="10.214286"
+         x="8.3042212"
          y="138.12184"
          id="text30-0"><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="10.214286"
+           x="8.3042212"
            y="138.12184"
-           id="tspan32-6">Aid Attack</tspan><tspan
+           id="tspan32-6">• Aid Attack</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="10.214286"
+           x="8.3042212"
            y="142.19641"
-           id="tspan34">Catch Breath</tspan><tspan
+           id="tspan34">• Catch Breath</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="10.214286"
+           x="8.3042212"
            y="146.271"
-           id="tspan35">Escape Grab</tspan><tspan
+           id="tspan35">• Escape Grab</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="10.214286"
+           x="8.3042212"
            y="150.34557"
-           id="tspan36">Grab</tspan><tspan
+           id="tspan36">• Grab</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="10.214286"
+           x="8.3042212"
            y="154.42015"
-           id="tspan37">Knockback</tspan><tspan
+           id="tspan37">• Knockback</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="10.214286"
+           x="8.3042212"
            y="158.49472"
-           id="tspan38">Make or Assist Test</tspan><tspan
+           id="tspan38">• Make or Assist Test</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="10.214286"
+           x="8.3042212"
            y="162.56929"
-           id="tspan39">Search for Hidden Creature</tspan><tspan
+           id="tspan39">• Search for Hidden Creature</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="10.214286"
+           x="8.3042212"
            y="166.64388"
-           id="tspan40">Stand Up</tspan><tspan
+           id="tspan40">• Stand Up</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="10.214286"
+           x="8.3042212"
            y="170.71844"
-           id="tspan41">Use Consumable</tspan></text>
+           id="tspan41">• Use Consumable</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-3-5-8-1"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 41.237108,172.45526 H 12.387403 Z"
+         sodipodi:nodetypes="ccc" />
     </g>
     <g
        id="g53"
@@ -1948,57 +1953,58 @@
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378002;stroke-linecap:round;paint-order:markers stroke fill"
          d="M 51.240548,128.80824 H 92.342546 V 274.7423 H 51.240548 Z"
          sodipodi:nodetypes="ccccc" />
-      <g
-         id="g29"
-         transform="translate(5.772813,60.854199)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           x="50.315086"
-           y="71.89682"
-           id="text2-8-82-4-3-9"><tspan
-             sodipodi:role="line"
-             id="tspan2-5-4-3-3-3"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-             x="50.315086"
-             y="71.89682">REGULAR ACTIONS</tspan></text>
-        <path
-           id="rect2-2-3-1-71-5-8-3-5"
-           style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           d="M 84.147652,73.489411 H 47.889621 Z"
-           sodipodi:nodetypes="ccc" />
-      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="56.087898"
+         y="132.75102"
+         id="text2-8-82-4-3-9"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-3-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="56.087898"
+           y="132.75102">REGULAR ACTIONS</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-3-5"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 89.920465,134.34361 H 53.662434 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-3-5-8"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 86.216396,156.03946 H 57.366698 Z"
+         sodipodi:nodetypes="ccc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:3.42704, 0.611973;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         x="55.194286"
+         x="53.077618"
          y="137.73227"
          id="text30-0-8"><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="55.194286"
+           x="53.077618"
            y="137.73227"
-           id="tspan41-4">Charge</tspan><tspan
+           id="tspan41-4">• Charge</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="55.194286"
+           x="53.077618"
            y="141.80684"
-           id="tspan49">Defend</tspan><tspan
+           id="tspan49">• Defend</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="55.194286"
+           x="53.077618"
            y="145.88142"
-           id="tspan50">Free Strike</tspan><tspan
+           id="tspan50">• Free Strike</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="55.194286"
+           x="53.077618"
            y="149.95599"
-           id="tspan51">Trade for Manoeuvre</tspan><tspan
+           id="tspan51">• Trade for Manoeuvre</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.245"
-           x="55.194286"
+           x="53.077618"
            y="154.03058"
-           id="tspan52">Trade for Move</tspan></text>
+           id="tspan52">• Trade for Move</tspan></text>
     </g>
     <g
        id="g15-7-0"
@@ -2460,7 +2466,7 @@
            id="tspan2-0-1-2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
            x="109.04241"
-           y="17.909668">Organisation</tspan></text>
+           y="17.909668">Organization</tspan></text>
     </g>
     <g
        id="g2-0-8"
