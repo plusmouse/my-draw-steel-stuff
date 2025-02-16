@@ -8,8 +8,8 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="11.svg"
-   inkscape:export-filename="11.pdf"
+   sodipodi:docname="12.svg"
+   inkscape:export-filename="12.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="1.74"
-     inkscape:cx="-205.74713"
-     inkscape:cy="668.67816"
+     inkscape:zoom="4.9214632"
+     inkscape:cx="567.71734"
+     inkscape:cy="537.13701"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g52"
+     inkscape:current-layer="g55-6"
      showgrid="false"
      showguides="true"
      inkscape:lockguides="false">
@@ -776,7 +776,7 @@
       </g>
       <g
          id="g5-4"
-         transform="translate(-5.3323049,25.373848)"
+         transform="translate(-13.269805,25.373848)"
          inkscape:label="Secondary Stats">
         <text
            xml:space="preserve"
@@ -803,9 +803,9 @@
         <path
            id="rect1-98-9"
            style="fill:none;stroke:#7b7b7b;stroke-width:0.280001;stroke-linecap:round;stroke-linejoin:miter;paint-order:markers stroke fill"
-           d="m 26.266093,26.065563 35.106882,0 1.058333,1.058333 v 5.139717 l -1.058333,1.058333 H 26.266093 L 25.20776,32.263613 v -5.139717 z"
+           d="m 26.266093,26.065563 h 46.865242 l 1.058333,1.058333 v 5.139717 l -1.058333,1.058333 -46.865242,0 -1.058333,-1.058333 v -5.139717 z"
            inkscape:path-effect="#path-effect1-2-1"
-           inkscape:original-d="m 25.20776,26.065563 h 37.223548 v 7.256383 H 25.20776 Z"
+           inkscape:original-d="m 25.20776,26.065563 h 48.981908 v 7.256383 H 25.20776 Z"
            transform="matrix(1.3501032,0,0,1.3501032,-6.8200844,-14.331114)"
            sodipodi:nodetypes="ccccc" />
         <path
@@ -816,6 +816,10 @@
            style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
            d="m 60.22537,22.929323 0.04049,6.413168"
            id="path5-9-0" />
+        <path
+           style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+           d="m 76.075032,22.929323 0.04049,6.413168"
+           id="path5-6-8-8" />
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Domine;-inkscape-font-specification:'Domine Bold';font-variation-settings:normal;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:none;fill-opacity:1;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
@@ -827,21 +831,28 @@
              style="stroke-width:0.378"
              x="69.690125"
              y="25.69108" /></text>
-        <g
-           id="g1"
-           transform="translate(12.279464,0.07091331)">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-             x="51.109234"
-             y="23.626295"
-             id="text2-8-5-1-0"><tspan
-               sodipodi:role="line"
-               id="tspan2-5-0-8-7"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-               x="51.109234"
-               y="23.626295">Stability</tspan></text>
-        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="63.388699"
+           y="23.697208"
+           id="text2-8-5-1-0"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-0-8-7"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="63.388699"
+             y="23.697208">Stability</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="83.855431"
+           y="23.697208"
+           id="text2-8-5-1-0-7"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-0-8-7-1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="83.855431"
+             y="23.697208">Disengage</tspan></text>
       </g>
     </g>
     <g
