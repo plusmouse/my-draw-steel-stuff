@@ -1,0 +1,2674 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="14.svg"
+   inkscape:export-filename="14.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.74"
+     inkscape:cx="354.5977"
+     inkscape:cy="877.29885"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g54"
+     showgrid="false"
+     showguides="false"
+     inkscape:lockguides="false">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="210"
+       height="297"
+       id="page55"
+       margin="0"
+       bleed="0"
+       inkscape:export-filename="13.pdf"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:label="1" />
+    <inkscape:page
+       x="220"
+       y="0"
+       width="210"
+       height="297"
+       id="page56"
+       margin="0"
+       bleed="0"
+       inkscape:export-filename="Basics\Combat.pdf"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:label="2" />
+    <inkscape:page
+       x="440"
+       y="0"
+       width="210"
+       height="297"
+       id="page1"
+       margin="0"
+       bleed="0"
+       inkscape:label="3" />
+    <inkscape:page
+       x="660"
+       y="0"
+       width="210"
+       height="297"
+       id="page11"
+       margin="0"
+       bleed="0"
+       inkscape:label="4" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="knot"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1"
+       switcher_size="15"
+       interruption_width="3"
+       prop_to_stroke_width="true"
+       add_stroke_width="inkscape_1.0_and_up"
+       both="false"
+       inverse_width="false"
+       add_other_stroke_width="inkscape_1.0_and_up"
+       crossing_points_vector="" />
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1"
+       linecap_type="butt"
+       line_width="0.37799999"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect8"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,3.4395833,0,1 @ F,0,0,1,0,3.4395833,0,1 @ F,0,0,1,0,3.4395833,0,1 @ F,0,0,1,0,3.4395833,0,1"
+       radius="13"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect6"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="IC,0,0,1,0,3.9687499,0,2 @ IC,0,0,1,0,3.9687499,0,2 @ IC,0,0,1,0,3.9687499,0,2 @ IC,0,0,1,0,3.9687499,0,2"
+       radius="15"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="2"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1"
+       radius="4"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1-4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1"
+       radius="4"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1-6"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1"
+       radius="4"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1-60"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1"
+       radius="4"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1-2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1"
+       radius="4"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1-2-1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1 @ C,0,0,1,0,1.0583333,0,1"
+       radius="4"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-5"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-0"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-8"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-07"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-0-8"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-8-1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-39"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-0-2"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-8-4"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-7"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-38"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-59"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-12"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-59-0"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-1-1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-6"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-59-8"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect7-1-19"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1 @ C,0,0,1,0,1.5875,0,1"
+       radius="6"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6"
+       inkscape:label="Character Name"
+       transform="translate(-4.1056037,6.8868832)">
+      <path
+         id="rect2"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.207543;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 67.205405,14.853304 H 9.8015623 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="9.5590191"
+         y="17.909668"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="9.5590191"
+           y="17.909668">Character Name</tspan></text>
+    </g>
+    <g
+       id="g2"
+       transform="translate(9.1235636,-3.6140327)"
+       inkscape:label="Subclass Top">
+      <path
+         id="rect2-2-3"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 148.69713,14.853304 H 109.28496 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="109.04241"
+         y="17.909668"
+         id="text2-5-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="109.04241"
+           y="17.909668">Subclass</tspan></text>
+    </g>
+    <g
+       id="g2-7"
+       transform="translate(9.1235636,6.8871117)"
+       inkscape:label="Subclass Top">
+      <path
+         id="rect2-2-3-7"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 148.69713,14.853304 H 109.28496 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="109.04241"
+         y="17.909668"
+         id="text2-5-5-3"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="109.04241"
+           y="17.909668">Career</tspan></text>
+    </g>
+    <g
+       id="g10"
+       transform="translate(1.6604859,-0.28034481)">
+      <g
+         id="g5"
+         transform="translate(2.9051043,9.7969929)"
+         inkscape:label="Primary Stats">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="6.3620529"
+           y="24.798105"
+           id="text2-8"><tspan
+             sodipodi:role="line"
+             id="tspan2-5"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="6.3620529"
+             y="24.798105">MIGHT</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="21.947344"
+           y="24.798105"
+           id="text2-8-5"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-0"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="21.947344"
+             y="24.798105">AGILITY</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="38.225838"
+           y="24.798105"
+           id="text2-8-8"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-9"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="38.225838"
+             y="24.798105">REASON</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="52.846733"
+           y="24.798105"
+           id="text2-8-84"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-96"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="52.846733"
+             y="24.798105">INTUITION</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="69.422882"
+           y="24.798105"
+           id="text2-8-3"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-5"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="69.422882"
+             y="24.798105">PRESENCE</tspan></text>
+        <path
+           id="rect1-98"
+           style="fill:none;stroke:#7b7b7b;stroke-width:0.280001;stroke-linecap:round;stroke-linejoin:miter;paint-order:markers stroke fill"
+           d="m 7.280927,26.065563 60.874578,0 1.058333,1.058333 v 7.883334 l -1.058333,1.058333 H 7.280927 L 6.2225937,35.00723 v -7.883334 z"
+           inkscape:path-effect="#path-effect1-2"
+           inkscape:original-d="M 6.2225937,26.065563 H 69.213838 v 10 H 6.2225937 Z"
+           transform="matrix(1.3501032,0,0,1.3501032,-6.8200844,-14.331114)"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 19.348755,24.005263 0.04042,8.407184"
+           id="path5" />
+        <path
+           style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill;stop-color:#000000;stop-opacity:1"
+           d="m 35.752932,24.005263 0.04042,8.407184"
+           id="path5-6" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 52.157108,24.005263 0.04042,8.407184"
+           id="path5-9" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 68.561284,24.005263 0.04042,8.407184"
+           id="path5-2" />
+      </g>
+      <g
+         id="g5-4"
+         transform="translate(-13.269805,25.373848)"
+         inkscape:label="Secondary Stats">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="34.180218"
+           y="23.654875"
+           id="text2-8-5-1"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-0-8"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="34.180218"
+             y="23.654875">Size</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="48.872742"
+           y="23.697208"
+           id="text2-8-5-1-3"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-0-8-8"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="48.872742"
+             y="23.697208">Speed</tspan></text>
+        <path
+           id="rect1-98-9"
+           style="fill:none;stroke:#7b7b7b;stroke-width:0.280001;stroke-linecap:round;stroke-linejoin:miter;paint-order:markers stroke fill"
+           d="m 26.266093,26.065563 h 46.865242 l 1.058333,1.058333 v 5.139717 l -1.058333,1.058333 -46.865242,0 -1.058333,-1.058333 v -5.139717 z"
+           inkscape:path-effect="#path-effect1-2-1"
+           inkscape:original-d="m 25.20776,26.065563 h 48.981908 v 7.256383 H 25.20776 Z"
+           transform="matrix(1.3501032,0,0,1.3501032,-6.8200844,-14.331114)"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000;stop-opacity:1"
+           d="m 44.43906,22.929323 0.04049,6.413168"
+           id="path5-6-8" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="m 60.22537,22.929323 0.04049,6.413168"
+           id="path5-9-0" />
+        <path
+           style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+           d="m 76.075032,22.929323 0.04049,6.413168"
+           id="path5-6-8-8" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Domine;-inkscape-font-specification:'Domine Bold';font-variation-settings:normal;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:none;fill-opacity:1;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+           x="69.690125"
+           y="25.69108"
+           id="text7"><tspan
+             sodipodi:role="line"
+             id="tspan7"
+             style="stroke-width:0.378"
+             x="69.690125"
+             y="25.69108" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="63.388699"
+           y="23.697208"
+           id="text2-8-5-1-0"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-0-8-7"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="63.388699"
+             y="23.697208">Stability</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="83.855431"
+           y="23.697208"
+           id="text2-8-5-1-0-7"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-0-8-7-1"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="83.855431"
+             y="23.697208">Disengage</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g3"
+       inkscape:label="Stamina"
+       transform="translate(-16.530215,7.6571545)">
+      <path
+         id="rect2-2-3-1"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 132.90028,34.7642 H 112.51725 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-6"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 121.75588,40.866435 H 110.96157 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect6"
+         transform="translate(-23.589391,-13.662422)"
+         d="m 137.39611,37.347305 h 17.8041 l 1.16242,2.80633 2.80633,1.16242 v 15.505612 l -2.80633,1.16242 -1.16242,2.80633 h -17.8041 l -1.16242,-2.80633 -2.80633,-1.16242 V 41.316055 l 2.80633,-1.16242 z"
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="116.18283"
+         y="27.966236"
+         id="text2-8-82"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="116.18283"
+           y="27.966236">STAMINA</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="114.50488"
+         y="42.744526"
+         id="text2-5-5-7"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="114.50488"
+           y="42.744526">Max</tspan></text>
+      <path
+         id="rect2-2-3-1-6-0"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 134.45596,40.866435 H 123.66165 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="126.6467"
+         y="42.744526"
+         id="text2-5-5-7-9"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-9-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="126.6467"
+           y="42.744526">Temp</tspan></text>
+    </g>
+    <g
+       id="g3-3"
+       transform="translate(11.327794,7.8092135)"
+       inkscape:label="Recoveries">
+      <path
+         id="rect2-2-3-1-7"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 132.90028,34.7642 H 112.51725 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-6-8"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 121.75588,40.866435 H 110.96157 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect6-8"
+         transform="translate(-23.589391,-13.662422)"
+         d="m 137.39611,37.347305 h 17.8041 l 1.16242,2.80633 2.80633,1.16242 v 15.505612 l -2.80633,1.16242 -1.16242,2.80633 h -17.8041 l -1.16242,-2.80633 -2.80633,-1.16242 V 41.316055 l 2.80633,-1.16242 z"
+         style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         sodipodi:nodetypes="ccccccccccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="113.83465"
+         y="27.814377"
+         id="text2-8-82-2"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="113.83465"
+           y="27.814377">RECOVERIES</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="114.50488"
+         y="42.744526"
+         id="text2-5-5-7-1"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-9-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="114.50488"
+           y="42.744526">Max</tspan></text>
+      <path
+         id="rect2-2-3-1-6-0-5"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 134.45596,40.866435 H 123.66165 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="125.51514"
+         y="42.744526"
+         id="text2-5-5-7-9-9"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-9-0-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="125.51514"
+           y="42.744526">Stamina</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:2.64583px;line-height:normal;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#cccccc;stroke-width:0.378;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="202.93866"
+         y="92.585022"
+         id="text10"><tspan
+           sodipodi:role="line"
+           id="tspan10"
+           style="stroke-width:0.378"
+           x="202.93866"
+           y="92.585022" /></text>
+    </g>
+    <g
+       id="g7"
+       transform="translate(-0.5308277,-0.10752222)">
+      <path
+         id="rect1"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 171.77843,5.3661714 h 32.60576 V 27.36686 h -32.60576 z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:normal;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.208;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill"
+         x="182.64885"
+         y="9.0357771"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.208;stroke-opacity:1"
+           x="182.64885"
+           y="9.0357771">LEVEL</tspan></text>
+      <path
+         id="rect2-2-3-1-8"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 198.27283,17.512638 H 177.8898 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="178.44408"
+         y="25.378925"
+         id="text2-5-5-7-4"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-9-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="178.44408"
+           y="25.378925">XP</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="191.79187"
+         y="25.378925"
+         id="text2-5-5-7-9-7"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-9-0-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="191.79187"
+           y="25.378925">Victories</tspan></text>
+      <path
+         id="rect2-2-3-1-6-2-3-7"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 186.59925,23.085706 H 173.15911 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-6-0-51-5-6"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 203.00352,23.085706 H 189.56338 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g66">
+      <path
+         id="rect1-1"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 391.24793,5.259 h 32.60576 v 15.65069 h -32.60576 z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;line-height:normal;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.208;stroke-linecap:round;stroke-opacity:1;paint-order:markers stroke fill"
+         x="401.38971"
+         y="8.8936806"
+         id="text1-5"><tspan
+           sodipodi:role="line"
+           id="tspan1-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.208;stroke-opacity:1"
+           x="401.38971"
+           y="8.8936806">ASSETS</tspan></text>
+      <path
+         id="rect2-2-3-1-6-2-3"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 406.06875,17.157698 H 392.62861 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-6-0-51-5"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 422.47302,17.157698 H 409.03288 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="411.49738"
+         y="19.417049"
+         id="text2-5-5-7-9-7-1"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-9-0-1-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="411.49738"
+           y="19.417049">Renown</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="395.81491"
+         y="19.417049"
+         id="text2-5-5-7-9-7-1-6"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-9-0-1-6-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="395.81491"
+           y="19.417049">Wealth</tspan></text>
+    </g>
+    <g
+       id="g8"
+       transform="translate(-25.667828,5.2216422)"
+       inkscape:label="Surges">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="181.17926"
+         y="32.248123"
+         id="text2-8-82-2-8"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-9-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="181.17926"
+           y="32.248123">SURGES</tspan></text>
+      <path
+         id="rect3"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 178.13118,29.101797 h 17.93821 a 3.4395833,3.4395833 45 0 1 3.43958,3.439583 v 11.43443 a 3.4395833,3.4395833 135 0 1 -3.43958,3.439583 H 178.13118 A 3.4395833,3.4395833 45 0 1 174.6916,43.97581 V 32.54138 a 3.4395833,3.4395833 135 0 1 3.43958,-3.439583 z"
+         sodipodi:nodetypes="ccccc"
+         inkscape:path-effect="#path-effect8"
+         inkscape:original-d="m 174.6916,29.101797 h 24.81737 V 47.415393 H 174.6916 Z" />
+      <path
+         id="rect2-2-3-1-71"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 197.2918,39.32253 H 176.90877 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="177.21555"
+         y="42.210457"
+         id="text2-5-5-7-9-9-6"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-9-0-8-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="177.21555"
+           y="42.210457">1 Surge = Damage</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="177.21555"
+           y="44.427811"
+           id="tspan3" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="177.20496"
+         y="45.217846"
+         id="text2-5-5-7-9-9-6-2"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-9-0-8-1-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="177.20496"
+           y="45.217846">2 Surges = Potency + 1</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="177.20496"
+           y="47.4352"
+           id="tspan3-6" /></text>
+      <path
+         id="rect2-2-3-1-6-0-5-4"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 197.29133,42.543851 h -4.55287 z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g9"
+       transform="translate(4.5716725,-17.357804)"
+       inkscape:label="Heroic Resource">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="185.36162"
+         y="52.598457"
+         id="text2-8-82-2-8-1"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-9-2-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="185.36162"
+           y="52.598457">HEROIC</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="185.36162"
+           y="55.92448"
+           id="tspan8">RESOURCE</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 195.5253,64.294745 H 175.14227 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="172.77936"
+         y="66.829536"
+         id="text2-5-5-7-9-9-6-4"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="172.77936"
+           y="66.829536"
+           id="tspan3-1">Fight start =  Victories</tspan></text>
+      <path
+         id="path8"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-dasharray:none;paint-order:markers stroke fill"
+         d="m 195.08252,49.241507 -19.30966,0.0029 -4.38698,15.035066 0.001,8.155116 15.53491,-3.5e-4 12.3599,-3.5e-4 -1.4e-4,-8.213227 z"
+         sodipodi:nodetypes="cccccccc" />
+      <path
+         id="rect2-2-3-1-71-6"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 197.28319,70.414354 H 182.45683 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="172.77054"
+         y="70.062805"
+         id="text2-5-5-7-9-9-6-2-2"><tspan
+           id="tspan2-0-1-9-0-8-1-1-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="172.77054"
+           y="70.062805"
+           sodipodi:role="line">Per-turn =</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76389px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="172.77054"
+           y="72.280159"
+           id="tspan3-6-3"
+           sodipodi:role="line" /></text>
+    </g>
+    <g
+       id="g2-0"
+       transform="translate(-38.219685,-3.6140327)"
+       inkscape:label="Subclass Top">
+      <path
+         id="rect2-2-3-9"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 148.69713,14.853304 H 109.28496 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="109.04241"
+         y="17.909668"
+         id="text2-5-5-4"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="109.04241"
+           y="17.909668">Class</tspan></text>
+    </g>
+    <g
+       id="g2-7-8"
+       transform="translate(-38.14031,6.8871117)"
+       inkscape:label="Subclass Top">
+      <path
+         id="rect2-2-3-7-3"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 148.69713,14.853304 H 109.28496 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="109.04241"
+         y="17.909668"
+         id="text2-5-5-3-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-3-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="109.04241"
+           y="17.909668">Ancestry</tspan></text>
+    </g>
+    <g
+       id="g15"
+       transform="translate(50.813276,-7.3998894)">
+      <path
+         id="rect15"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 8.064167,67.954048 H 47.049304 V 125.5165 H 8.064167 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="16.094982"
+         y="71.94622"
+         id="text2-8-82-4"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="16.094982"
+           y="71.94622">WEAKNESSES</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 43.569084,73.538815 H 11.544387 Z"
+         sodipodi:nodetypes="ccc" />
+      <g
+         id="g16"
+         transform="translate(3.666667e-8,6.5803739)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="16.918903"
+           y="90.996239"
+           id="text2-8-82-4-3"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-4-3-3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="16.918903"
+             y="90.996239">IMMUNITIES</tspan></text>
+        <path
+           id="rect2-2-3-1-71-5-8-3"
+           style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="M 43.569084,92.588827 H 11.544387 Z"
+           sodipodi:nodetypes="ccc" />
+      </g>
+    </g>
+    <g
+       id="g32"
+       transform="translate(0,21.16666)">
+      <path
+         id="rect15-7-3"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 6.2613542,248.4001 H 47.363157 v 21.57893 H 6.2613542 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="14.461986"
+         y="252.39215"
+         id="text2-8-82-4-9-4"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-9-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="14.461986"
+           y="252.39215">MOVE ACTIONS</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-7-2"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 45.289413,253.98474 H 9.0313823 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:3.42704, 0.611973;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         x="8.6271114"
+         y="258.05331"
+         id="text30"><tspan
+           sodipodi:role="line"
+           id="tspan30"
+           style="stroke-width:0.245"
+           x="8.6271114"
+           y="258.05331">• Advance</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="8.6271114"
+           y="262.1279"
+           id="tspan31">• Disengage</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="8.6271114"
+           y="266.20245"
+           id="tspan32">• Ride Mount</tspan></text>
+    </g>
+    <g
+       id="g54"
+       transform="translate(-46.597001,92.579808)">
+      <path
+         id="rect15-7-5"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 96.219742,128.80824 h 41.102018 v 69.75763 H 96.219742 Z"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g30"
+         transform="translate(12.652029,60.854199)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="86.613365"
+           y="71.89682"
+           id="text2-8-82-4-3-9-8"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-4-3-3-3-2"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="86.613365"
+             y="71.89682">TRIGGERED ACTIONS</tspan></text>
+        <path
+           id="rect2-2-3-1-71-5-8-3-5-5"
+           style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="M 122.2478,73.489411 H 85.989645 Z"
+           sodipodi:nodetypes="ccc" />
+      </g>
+    </g>
+    <g
+       id="g55"
+       transform="translate(-3.1750001,21.166657)">
+      <path
+         id="rect15-7-5-9"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 96.220001,128.80824 H 207.02836 V 269.97903 H 96.220001 Z"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g30-8"
+         transform="translate(67.685397,60.854199)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="74.676781"
+           y="71.89682"
+           id="text2-8-82-4-3-9-8-7"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-4-3-3-3-2-3"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="74.676781"
+             y="71.89682">FEATURES</tspan></text>
+        <path
+           id="rect2-2-3-1-71-5-8-3-5-5-0"
+           style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="M 136.19911,73.489411 H 30.620126 Z"
+           sodipodi:nodetypes="ccc" />
+      </g>
+    </g>
+    <g
+       id="g55-6"
+       transform="translate(-3.1750001,-8.4666844)">
+      <path
+         id="rect15-7-5-9-0"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 96.220001,128.80824 H 207.02836 v 26.92455 H 96.220001 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="150.96484"
+         y="132.75102"
+         id="text2-8-82-4-3-9-8-7-6"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-3-3-2-3-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="150.96484"
+           y="132.75102"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan29">EQUIPMENT</tspan></tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-3-5-5-0-8"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 203.88451,134.34361 H 98.305523 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         x="98.438011"
+         y="143.84865"
+         id="text14-9-3"><tspan
+           sodipodi:role="line"
+           id="tspan14-5-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.378"
+           x="98.438011"
+           y="143.84865">Armor</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:Domine;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         x="98.442589"
+         y="152.3156"
+         id="text16-1"><tspan
+           sodipodi:role="line"
+           id="tspan16-1"
+           style="text-align:start;text-anchor:start;stroke-width:0.378"
+           x="98.442589"
+           y="152.3156">Weapon/Implement</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 130.1187,135.89623 0.0405,18.05484"
+         id="path5-9-0-7-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect2-2-3-7-3-7-6-0"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 127.35516,141.32108 H 98.632491 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-7-3-7-6-0-6"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 127.35516,149.7878 H 98.632491 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g15-7"
+       transform="translate(-1.9175327,-7.9375004)">
+      <path
+         id="rect15-81"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 8.064167,68.491658 H 58.690971 V 126.0541 H 8.064167 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="22.777834"
+         y="72.483826"
+         id="text2-8-82-4-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="22.777834"
+           y="72.483826">CONDITIONS</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 54.946168,74.076425 H 11.808971 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 56.75422,83.755639 H 9.9128567 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-0"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 56.75422,87.839891 H 9.9128567 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-1"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 56.75422,91.924143 H 9.9128567 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-5"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 56.75422,96.008394 H 9.9128567 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-7"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 56.75422,100.09265 H 9.9128567 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-4"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 56.75422,104.17689 H 9.9128567 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-8"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 56.75422,108.26114 H 9.9128567 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-9"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 56.75422,112.34539 H 9.9128567 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-8-8"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 56.75422,116.64722 H 9.9128567 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-9-2"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 56.75422,120.73147 H 9.9128567 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-2"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 56.75422,79.671388 H 9.9128567 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="9.731843"
+         y="82.455734"
+         id="text18"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           style="line-height:1.65;text-align:start;text-anchor:start;stroke-width:0"
+           x="9.731843"
+           y="82.455734">Bleeding</tspan><tspan
+           sodipodi:role="line"
+           style="line-height:1.65;text-align:start;text-anchor:start;stroke-width:0"
+           x="9.731843"
+           y="86.530312"
+           id="tspan19">Dazed</tspan><tspan
+           sodipodi:role="line"
+           style="line-height:1.65;text-align:start;text-anchor:start;stroke-width:0"
+           x="9.731843"
+           y="90.604889"
+           id="tspan20">Frightened</tspan><tspan
+           sodipodi:role="line"
+           style="line-height:1.65;text-align:start;text-anchor:start;stroke-width:0"
+           x="9.731843"
+           y="94.679459"
+           id="tspan21">Grabbed</tspan><tspan
+           sodipodi:role="line"
+           style="line-height:1.65;text-align:start;text-anchor:start;stroke-width:0"
+           x="9.731843"
+           y="98.754036"
+           id="tspan22">Prone</tspan><tspan
+           sodipodi:role="line"
+           style="line-height:1.65;text-align:start;text-anchor:start;stroke-width:0"
+           x="9.731843"
+           y="102.82861"
+           id="tspan23">Restrained</tspan><tspan
+           sodipodi:role="line"
+           style="line-height:1.65;text-align:start;text-anchor:start;stroke-width:0"
+           x="9.731843"
+           y="106.90319"
+           id="tspan24">Slowed</tspan><tspan
+           sodipodi:role="line"
+           style="line-height:1.65;text-align:start;text-anchor:start;stroke-width:0"
+           x="9.731843"
+           y="110.97777"
+           id="tspan25">Taunted</tspan><tspan
+           sodipodi:role="line"
+           style="line-height:1.65;text-align:start;text-anchor:start;stroke-width:0"
+           x="9.731843"
+           y="115.05235"
+           id="tspan26">Weakened</tspan><tspan
+           sodipodi:role="line"
+           style="line-height:1.65;text-align:start;text-anchor:start;stroke-width:0"
+           x="9.731843"
+           y="119.12691"
+           id="tspan5" /><tspan
+           sodipodi:role="line"
+           style="line-height:1.65;text-align:start;text-anchor:start;stroke-width:0"
+           x="9.731843"
+           y="123.20149"
+           id="tspan13" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="28.361551"
+         y="78.805344"
+         id="text27"><tspan
+           sodipodi:role="line"
+           id="tspan27"
+           style="stroke-width:0"
+           x="28.361551"
+           y="78.805344">End of Turn</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="44.444302"
+         y="78.802872"
+         id="text28"><tspan
+           sodipodi:role="line"
+           id="tspan28"
+           style="stroke-width:0"
+           x="44.444302"
+           y="78.802872">Save Ends</tspan></text>
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.44789, 0;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 43.588511,76.860003 0.04049,47.688157"
+         id="path5-6-8-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.44789, 0;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 27.448963,76.860003 0.04049,47.688157"
+         id="path5-6-8-5-8"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-9-1"
+         width="2.5"
+         height="2.5"
+         x="49.02993"
+         y="80.463509" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-7-4-6"
+         width="2.5"
+         height="2.5"
+         x="49.02993"
+         y="84.54776" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-6-7-4"
+         width="2.5"
+         height="2.5"
+         x="49.048935"
+         y="96.800514" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-1-8-0"
+         width="2.5"
+         height="2.5"
+         x="49.02993"
+         y="88.632011" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-4-3-6"
+         width="2.5"
+         height="2.5"
+         x="49.02993"
+         y="92.716263" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-9-7"
+         width="2.5"
+         height="2.5"
+         x="49.056812"
+         y="100.99351" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-7-4-8"
+         width="2.5"
+         height="2.5"
+         x="49.056812"
+         y="105.07772" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-1-8-8"
+         width="2.5"
+         height="2.5"
+         x="49.056812"
+         y="109.16199" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-4-3-3"
+         width="2.5"
+         height="2.5"
+         x="49.056812"
+         y="113.24622" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-9"
+         width="2.5"
+         height="2.5"
+         x="34.27948"
+         y="80.463509" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-7-4"
+         width="2.5"
+         height="2.5"
+         x="34.27948"
+         y="84.54776" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-6-7"
+         width="2.5"
+         height="2.5"
+         x="34.298485"
+         y="96.800514" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-1-8"
+         width="2.5"
+         height="2.5"
+         x="34.27948"
+         y="88.632011" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-4-3"
+         width="2.5"
+         height="2.5"
+         x="34.27948"
+         y="92.716263" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-9-4"
+         width="2.5"
+         height="2.5"
+         x="34.27948"
+         y="100.96663" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-7-4-1"
+         width="2.5"
+         height="2.5"
+         x="34.27948"
+         y="105.05084" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-1-8-9"
+         width="2.5"
+         height="2.5"
+         x="34.27948"
+         y="109.13511" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-4-3-8"
+         width="2.5"
+         height="2.5"
+         x="34.27948"
+         y="113.21936" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-1-8-9-7"
+         width="2.5"
+         height="2.5"
+         x="34.27948"
+         y="117.46735" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-4-3-8-1"
+         width="2.5"
+         height="2.5"
+         x="34.27948"
+         y="121.55163" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-1-8-8-1"
+         width="2.5"
+         height="2.5"
+         x="49.056812"
+         y="117.49427" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         id="rect12-4-3-3-5"
+         width="2.5"
+         height="2.5"
+         x="49.056812"
+         y="121.57849" />
+    </g>
+    <g
+       id="g15-0"
+       transform="translate(153.62906,-7.3998894)">
+      <path
+         id="rect15-8"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M -7.810833,67.954048 H 50.224304 V 125.5165 H -7.810833 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="6.5699792"
+         y="71.94622"
+         id="text2-8-82-4-8"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="6.5699792"
+           y="71.94622">RESOURCE GAINS</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-6"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 47.537834,73.538815 H -5.124363 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-8"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle);paint-order:markers stroke fill"
+         d="m 27.483285,63.892405 v 3.893447 z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g52"
+       transform="translate(43.361602,-8.4666944)">
+      <path
+         id="rect15-7"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 6.2613542,128.80825 H 47.363157 v 98.30829 H 6.2613542 Z"
+         sodipodi:nodetypes="ccccc" />
+      <g
+         id="g28"
+         transform="translate(-1.9838377,60.854199)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           x="18.425432"
+           y="71.94622"
+           id="text2-8-82-4-9"><tspan
+             sodipodi:role="line"
+             id="tspan2-5-4-3-9"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+             x="18.425432"
+             y="71.94622">MANEUVERS</tspan></text>
+        <path
+           id="rect2-2-3-1-71-5-8-7"
+           style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           d="M 47.273251,73.538815 H 11.01522 Z"
+           sodipodi:nodetypes="ccc" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:3.42704, 0.611973;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         x="8.3042212"
+         y="138.12184"
+         id="text30-0"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="8.3042212"
+           y="138.12184"
+           id="tspan32-6">• Aid Attack</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="8.3042212"
+           y="142.19641"
+           id="tspan34">• Catch Breath</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="8.3042212"
+           y="146.271"
+           id="tspan35">• Escape Grab</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="8.3042212"
+           y="150.34557"
+           id="tspan36">• Grab</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="8.3042212"
+           y="154.42015"
+           id="tspan37">• Knockback</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="8.3042212"
+           y="158.49472"
+           id="tspan38">• Make or Assist Test</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="8.3042212"
+           y="162.56929"
+           id="tspan39">• Search for Hidden Creature</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="8.3042212"
+           y="166.64388"
+           id="tspan40">• Stand Up</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="8.3042212"
+           y="170.71844"
+           id="tspan41">• Use Consumable</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-3-5-8-1"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 41.237108,172.45526 H 12.387403 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g53"
+       transform="translate(-44.97939,-8.4666834)">
+      <path
+         id="rect15-7-1"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378002;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 51.240548,128.80824 h 41.101998 v 146.9924 H 51.240548 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="56.087898"
+         y="132.75102"
+         id="text2-8-82-4-3-9"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-3-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="56.087898"
+           y="132.75102">REGULAR ACTIONS</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-3-5"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 89.920465,134.34361 H 53.662434 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-3-5-8"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 86.216396,156.03946 H 57.366698 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:3.42704, 0.611973;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         x="53.077618"
+         y="137.73227"
+         id="text30-0-8"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="53.077618"
+           y="137.73227"
+           id="tspan41-4">• Charge</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="53.077618"
+           y="141.80684"
+           id="tspan49">• Defend</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="53.077618"
+           y="145.88142"
+           id="tspan50">• Free Strike</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="53.077618"
+           y="149.95599"
+           id="tspan51">• Trade for Manoeuvre</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.245"
+           x="53.077618"
+           y="154.03058"
+           id="tspan52">• Trade for Move</tspan></text>
+    </g>
+    <g
+       id="g15-7-0"
+       transform="translate(95.077418,-7.3998894)">
+      <path
+         id="rect15-81-6"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 4.8891668,67.954048 H 48.636802 V 125.5165 H 4.8891668 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="16.749035"
+         y="71.94622"
+         id="text2-8-82-4-5-7"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="16.749035"
+           y="71.94622">INVENTORY</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 44.891999,73.538815 H 8.6339699 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g15-7-0-3"
+       transform="translate(218.08284,-36.591511)">
+      <path
+         id="rect15-81-6-8"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 8.064167,67.954048 H 70.332638 V 145.09567 H 8.064167 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="28.049391"
+         y="71.94622"
+         id="text2-8-82-4-5-7-4"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="28.049391"
+           y="71.94622">APPEARANCE</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 66.587834,73.538815 H 11.808971 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g15-7-0-3-3"
+       transform="translate(218.08284,43.312694)">
+      <path
+         id="rect15-81-6-8-5"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 8.064167,67.954048 H 78.270138 V 145.09567 H 8.064167 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="43.030628"
+         y="71.94622"
+         id="text2-8-82-4-5-7-4-9"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="43.030628"
+           y="71.94622">CAREER</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-8"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 74.525334,73.538815 H 11.808971 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="43.065907"
+         y="82.830566"
+         id="text2-8-82-4-5-7-4-3-5-21"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-8-8-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="43.065907"
+           y="82.830566">INCITING INCIDENT</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-0-9-9"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 62.883668,84.091273 H 23.450638 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g15-7-0-3-3-8"
+       transform="translate(291.08953,43.312694)">
+      <path
+         id="rect15-81-6-8-5-2"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 8.196459,67.954048 H 98.51068 V 145.09567 H 8.196459 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="53.310707"
+         y="71.94622"
+         id="text2-8-82-4-5-7-4-9-4"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-9-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="53.310707"
+           y="71.94622">CULTURE &amp; UPBRINGING</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-8-5"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 94.89817,73.538815 H 11.808971 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g15-7-0-3-3-8-2"
+       transform="translate(291.08953,167.06392)">
+      <path
+         id="rect15-81-6-8-5-2-6-1"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 8.196459,67.954048 H 132.95248 V 124.08177 H 8.196459 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="70.577644"
+         y="71.94622"
+         id="text2-8-82-4-5-7-4-9-4-6"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-9-5-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="70.577644"
+           y="71.94622">OTHER NOTES</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-8-5-5"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 129.59532,73.538815 H 11.55362 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g15-7-0-3-3-8-2-4"
+       transform="translate(291.08953,123.71555)">
+      <path
+         id="rect15-81-6-8-5-2-6-1-3"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 8.196459,67.954048 H 132.19103 V 108.20641 H 8.196459 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="57.247707"
+         y="71.94622"
+         id="text2-8-82-4-5-7-4-9-4-6-1"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-9-5-8-2"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="57.247707"
+           y="71.94622">PROJECTS</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-8-5-5-3"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 128.53675,73.538815 H 11.808971 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-3"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 129.65537,84.616222 H 11.075426 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-0-7"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 129.65537,90.155684 H 11.075426 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-1-8"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 129.65537,95.695147 H 11.075426 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-5-8"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 129.65537,101.23461 H 11.075426 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-1-2-5"
+         style="fill:none;stroke:#cccccc;stroke-width:0.245;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 129.65537,79.076759 H 11.075426 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="71.105911"
+         y="78.210724"
+         id="text27-4"><tspan
+           sodipodi:role="line"
+           id="tspan27-2"
+           style="stroke-width:0"
+           x="71.105911"
+           y="78.210724">Assigned</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="15.605102"
+         y="78.210724"
+         id="text27-4-3"><tspan
+           sodipodi:role="line"
+           id="tspan27-2-3"
+           style="stroke-width:0"
+           x="15.605102"
+           y="78.210724">Name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="105.16272"
+         y="78.208252"
+         id="text28-0"><tspan
+           sodipodi:role="line"
+           id="tspan28-9"
+           style="stroke-width:0"
+           x="105.16272"
+           y="78.208252">Progress</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:1.65;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="121.31269"
+         y="78.208252"
+         id="text28-0-8"><tspan
+           sodipodi:role="line"
+           id="tspan28-9-3"
+           style="stroke-width:0"
+           x="121.31269"
+           y="78.208252">Roll</tspan></text>
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.44789, 0;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 101.63659,76.265374 0.0405,30.225666"
+         id="path5-6-8-5-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.44789, 0;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 119.0992,76.265374 0.0405,30.225666"
+         id="path5-6-8-5-7-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="font-variation-settings:normal;vector-effect:none;fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.44789, 0;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;paint-order:markers stroke fill;stop-color:#000000"
+         d="m 51.365712,76.265374 0.04049,30.225666"
+         id="path5-6-8-5-8-3"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g15-7-0-3-6"
+       transform="translate(218.08284,123.71555)">
+      <path
+         id="rect15-81-6-8-0"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="M 8.064167,67.954048 H 78.270138 V 167.43014 H 8.064167 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="30.271893"
+         y="71.94622"
+         id="text2-8-82-4-5-7-4-3"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="30.271893"
+           y="71.94622">COMPLICATION</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="37.442993"
+         y="82.331367"
+         id="text2-8-82-4-5-7-4-3-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-8-8"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="37.442993"
+           y="82.331367">BENEFIT</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-0"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 74.525334,73.538815 H 11.808971 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-0-9"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 62.883668,83.592988 H 23.450638 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="35.627949"
+         y="124.94933"
+         id="text2-8-82-4-5-7-4-3-5-2"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-8-8-5"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="35.627949"
+           y="124.94933">DRAWBACK</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-0-9-8"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 62.883668,126.21104 H 23.450638 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g65"
+       transform="translate(93.009462,-56.643796)">
+      <path
+         id="rect15-81-6-8-5-3"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 253.76912,88.006333 h 42.68929 v 77.141627 h -42.68929 z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="269.28287"
+         y="91.998512"
+         id="text2-8-82-4-5-7-4-7-6"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-9-7"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="269.28287"
+           y="91.998512">TITLES</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-8-1"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 292.97819,93.591103 H 257.24933 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g65-3"
+       transform="translate(192.01789,-71.942334)">
+      <path
+         id="rect2-2-3-7-3-7-6-8"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 292.44367,103.10937 H 256.33954 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:#7b7b7b;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 255.2793,87.816406 -1.69922,1.699219 v 87.351565 l 1.69922,1.69922 h 60.83593 l 1.69922,-1.69922 V 89.515625 l -1.69922,-1.699219 z m 0.15625,0.378906 h 60.52343 l 1.47657,1.476563 v 87.039065 l -1.47657,1.47656 h -60.52343 l -1.47657,-1.47656 V 89.671875 Z"
+         id="rect15-81-6-8-5-3-7" />
+      <path
+         id="rect2-2-3-7-3-7-6-2"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 314.70101,111.57618 H 275.88884 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stroke-dasharray:none"
+         d="m 308.33655,88.136659 v 8.32221 h 9.15856"
+         id="path11"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         x="261.18292"
+         y="97.569481"
+         id="text14"><tspan
+           sodipodi:role="line"
+           id="tspan14"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.378"
+           x="261.18292"
+           y="97.569481">Name</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         x="261.59598"
+         y="105.63696"
+         id="text14-9"><tspan
+           sodipodi:role="line"
+           id="tspan14-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.378"
+           x="261.59598"
+           y="105.63696">Keywords</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:Domine;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         x="298.48322"
+         y="105.63709"
+         id="text15"><tspan
+           sodipodi:role="line"
+           id="tspan15"
+           style="stroke-width:0.378"
+           x="298.48322"
+           y="105.63709">Type</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:Domine;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         x="260.83926"
+         y="114.10392"
+         id="text16"><tspan
+           sodipodi:role="line"
+           id="tspan16"
+           style="stroke-width:0.378"
+           x="260.83926"
+           y="114.10392">Distance</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:Domine;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         x="279.30255"
+         y="114.10371"
+         id="text17"><tspan
+           sodipodi:role="line"
+           id="tspan17"
+           style="stroke-width:0.378"
+           x="279.30255"
+           y="114.10371">Target</tspan></text>
+      <path
+         id="rect2-2-3-7-3-7-6"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 305.49505,95.178711 H 257.61621 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-7-3-7-6-3"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 314.6921,103.10938 H 296.00517 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-7-3-7-6-5"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 272.91456,111.57618 H 256.29053 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g65-8"
+       transform="translate(10.988575,-56.643796)">
+      <path
+         id="rect15-81-6-8-5-3-6"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 280.22762,88.006333 h 52.74345 v 77.141627 h -52.74345 z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="297.71887"
+         y="91.998512"
+         id="text2-8-82-4-5-7-4-7-6-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-9-7-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="297.71887"
+           y="91.998512">ANCESTRY</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-8-1-2"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 329.75544,93.591103 H 283.44325 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g65-8-5"
+       transform="translate(120.82437,-56.643796)">
+      <path
+         id="rect15-81-6-8-5-3-6-2"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 271.33931,88.006333 h 31.87833 v 77.141627 h -31.87833 z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="281.45871"
+         y="91.998512"
+         id="text2-8-82-4-5-7-4-7-6-5-0"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-9-7-0-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="281.45871"
+           y="91.998512">SKILLS</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-8-1-2-3"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 300.11583,93.591103 H 274.44112 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <g
+       id="g2-5"
+       transform="translate(163.78107,5.3480223)"
+       inkscape:label="Subclass Top">
+      <path
+         id="rect2-2-3-4"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 148.69713,14.853304 H 109.28496 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="109.04241"
+         y="17.909668"
+         id="text2-5-5-31"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="109.04241"
+           y="17.909668">Organization</tspan></text>
+    </g>
+    <g
+       id="g2-0-8"
+       transform="translate(116.43782,5.3480223)"
+       inkscape:label="Subclass Top">
+      <path
+         id="rect2-2-3-9-7"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 148.69713,14.853304 H 109.28496 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="109.04241"
+         y="17.909668"
+         id="text2-5-5-4-4"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-7-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="109.04241"
+           y="17.909668">Environment</tspan></text>
+    </g>
+    <g
+       id="g2-7-8-7"
+       transform="translate(211.18463,5.2658325)"
+       inkscape:label="Subclass Top">
+      <path
+         id="rect2-2-3-7-3-7"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 148.69713,14.853304 H 109.28496 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="109.04241"
+         y="17.909668"
+         id="text2-5-5-3-5-9"><tspan
+           sodipodi:role="line"
+           id="tspan2-0-1-3-1-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.64583px;font-family:Domine;-inkscape-font-specification:Domine;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="109.04241"
+           y="17.909668">Upbringing</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="225.63846"
+       y="11.365283"
+       id="text2-8-82-4-5-7-4-5"><tspan
+         sodipodi:role="line"
+         id="tspan2-5-4-3-8-5-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Domine;-inkscape-font-specification:'Domine Bold';writing-mode:lr-tb;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+         x="225.63846"
+         y="11.365283">Identity</tspan></text>
+    <g
+       id="g65-1"
+       transform="translate(121.90737,22.202074)">
+      <path
+         id="rect15-81-6-8-5-3-2"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 270.32557,89.064666 h 31.04762 v 77.141624 h -31.04762 z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="275.57031"
+         y="93.056847"
+         id="text2-8-82-4-5-7-4-7-6-3"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-8-5-9-9-7-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="275.57031"
+           y="93.056847">LANGUAGES</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-61-0-2-8-1-4"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 297.89297,94.649437 H 273.80578 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="5.6066499"
+       y="10.984"
+       id="text2-8-82-4-5-7-4-5-4"><tspan
+         sodipodi:role="line"
+         id="tspan2-5-4-3-8-5-9-0-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Domine;-inkscape-font-specification:'Domine Bold';writing-mode:lr-tb;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+         x="5.6066499"
+         y="10.984">Hero</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="445.68057"
+       y="10.984"
+       id="text2-8-82-4-5-7-4-5-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan2-5-4-3-8-5-9-0-3-7"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Domine;-inkscape-font-specification:'Domine Bold';writing-mode:lr-tb;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+         x="445.68057"
+         y="10.984">Abilities 1</tspan></text>
+    <use
+       id="use4"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(67.105215)" />
+    <use
+       id="use5"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(134.21043)" />
+    <use
+       id="use5-63"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(220.00014)" />
+    <use
+       id="use6"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(0,92.355305)" />
+    <use
+       id="use7"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(67.105215,92.355305)" />
+    <use
+       id="use8"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(134.21043,92.355305)" />
+    <use
+       id="use9"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(134.21043,184.71061)" />
+    <use
+       id="use10"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(67.105215,184.71061)" />
+    <use
+       id="use11"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(0,184.71061)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       x="665.68066"
+       y="10.984"
+       id="text2-8-82-4-5-7-4-5-4-8-8"><tspan
+         sodipodi:role="line"
+         id="tspan2-5-4-3-8-5-9-0-3-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Domine;-inkscape-font-specification:'Domine Bold';writing-mode:lr-tb;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+         x="665.68066"
+         y="10.984">Abilities 2</tspan></text>
+    <use
+       id="use4-7"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(287.10535)" />
+    <use
+       id="use5-6"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(354.21057)" />
+    <use
+       id="use6-6"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(220.00014,92.355305)" />
+    <use
+       id="use7-5"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(287.10535,92.355305)" />
+    <use
+       id="use8-8"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(354.21057,92.355305)" />
+    <use
+       id="use9-2"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(354.21057,184.71061)" />
+    <use
+       id="use10-5"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(287.10535,184.71061)" />
+    <use
+       id="use11-4"
+       inkscape:spray-origin="#g65-3"
+       xlink:href="#g65-3"
+       transform="translate(220.00014,184.71061)" />
+  </g>
+</svg>

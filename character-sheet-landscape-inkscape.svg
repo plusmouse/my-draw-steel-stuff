@@ -2,14 +2,14 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
    version="1.1"
    id="svg1"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   sodipodi:docname="13.svg"
-   inkscape:export-filename="13.pdf"
+   sodipodi:docname="14-landscape.svg"
+   inkscape:export-filename="14-landscape.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,23 +27,23 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="9.8429264"
-     inkscape:cx="357.61722"
-     inkscape:cy="486.28831"
+     inkscape:zoom="0.87"
+     inkscape:cx="3856.3218"
+     inkscape:cy="540.8046"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g55-6"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showguides="false"
      inkscape:lockguides="false">
     <inkscape:page
        x="0"
        y="0"
-       width="210"
-       height="297"
+       width="297"
+       height="210"
        id="page55"
        margin="0"
        bleed="0"
@@ -52,10 +52,10 @@
        inkscape:export-ydpi="96"
        inkscape:label="1" />
     <inkscape:page
-       x="220"
-       y="0"
-       width="210"
-       height="297"
+       x="317.31799"
+       y="4.3641535e-07"
+       width="297"
+       height="209.99998"
        id="page56"
        margin="0"
        bleed="0"
@@ -64,19 +64,19 @@
        inkscape:export-ydpi="96"
        inkscape:label="2" />
     <inkscape:page
-       x="440"
-       y="0"
-       width="210"
-       height="297"
+       x="628.85779"
+       y="2.7370689"
+       width="297"
+       height="209.99998"
        id="page1"
        margin="0"
        bleed="0"
        inkscape:label="3" />
     <inkscape:page
-       x="660"
-       y="0"
-       width="210"
-       height="297"
+       x="1005.4789"
+       y="4.8659"
+       width="297"
+       height="209.99998"
        id="page11"
        margin="0"
        bleed="0"
@@ -623,11 +623,12 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(270.66571)">
     <g
        id="g6"
        inkscape:label="Character Name"
-       transform="translate(-4.1056037,6.8868832)">
+       transform="translate(-274.77131,6.8868832)">
       <path
          id="rect2"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.207543;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -647,7 +648,7 @@
     </g>
     <g
        id="g2"
-       transform="translate(9.1235636,-3.6140327)"
+       transform="translate(-261.54214,-3.6140327)"
        inkscape:label="Subclass Top">
       <path
          id="rect2-2-3"
@@ -668,7 +669,7 @@
     </g>
     <g
        id="g2-7"
-       transform="translate(9.1235636,6.8871117)"
+       transform="translate(-261.54214,6.8871117)"
        inkscape:label="Subclass Top">
       <path
          id="rect2-2-3-7"
@@ -689,7 +690,7 @@
     </g>
     <g
        id="g10"
-       transform="translate(1.6604859,-0.28034481)">
+       transform="translate(-269.00522,-0.28034481)">
       <g
          id="g5"
          transform="translate(2.9051043,9.7969929)"
@@ -858,7 +859,7 @@
     <g
        id="g3"
        inkscape:label="Stamina"
-       transform="translate(-16.530215,7.6571545)">
+       transform="translate(-287.19592,7.6571545)">
       <path
          id="rect2-2-3-1"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -916,7 +917,7 @@
     </g>
     <g
        id="g3-3"
-       transform="translate(11.327794,7.8092135)"
+       transform="translate(-259.33791,7.8092135)"
        inkscape:label="Recoveries">
       <path
          id="rect2-2-3-1-7"
@@ -986,7 +987,7 @@
     </g>
     <g
        id="g7"
-       transform="translate(-0.5308277,-0.10752222)">
+       transform="translate(-272.4701,0.50679763)">
       <path
          id="rect1"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -1042,7 +1043,8 @@
          sodipodi:nodetypes="ccc" />
     </g>
     <g
-       id="g66">
+       id="g66"
+       transform="translate(-214.4461,20.92121)">
       <path
          id="rect1-1"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -1094,7 +1096,7 @@
     </g>
     <g
        id="g8"
-       transform="translate(-25.667828,5.2216422)"
+       transform="translate(-296.33354,5.2216422)"
        inkscape:label="Surges">
       <text
          xml:space="preserve"
@@ -1159,7 +1161,7 @@
     </g>
     <g
        id="g9"
-       transform="translate(4.5716725,-17.357804)"
+       transform="translate(-266.09404,-17.357804)"
        inkscape:label="Heroic Resource">
       <text
          xml:space="preserve"
@@ -1222,7 +1224,7 @@
     </g>
     <g
        id="g2-0"
-       transform="translate(-38.219685,-3.6140327)"
+       transform="translate(-308.88539,-3.6140327)"
        inkscape:label="Subclass Top">
       <path
          id="rect2-2-3-9"
@@ -1243,7 +1245,7 @@
     </g>
     <g
        id="g2-7-8"
-       transform="translate(-38.14031,6.8871117)"
+       transform="translate(-308.80602,6.8871117)"
        inkscape:label="Subclass Top">
       <path
          id="rect2-2-3-7-3"
@@ -1264,52 +1266,48 @@
     </g>
     <g
        id="g15"
-       transform="translate(50.813276,-6.8707227)">
+       transform="translate(-117.8256,79.21822)">
       <path
          id="rect15"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
-         d="M 8.064167,67.954048 H 47.049304 V 125.5165 H 8.064167 Z"
+         d="M -0.40249967,67.954048 H 51.013254 V 125.5165 H -0.40249967 Z"
          sodipodi:nodetypes="ccccc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         x="16.094982"
+         x="13.843624"
          y="71.94622"
          id="text2-8-82-4"><tspan
            sodipodi:role="line"
            id="tspan2-5-4-3"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-           x="16.094982"
+           x="13.843624"
            y="71.94622">WEAKNESSES</tspan></text>
       <path
          id="rect2-2-3-1-71-5-8"
          style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="M 43.569084,73.538815 H 11.544387 Z"
+         d="M 47.515667,73.538815 H 3.0950878 Z"
          sodipodi:nodetypes="ccc" />
-      <g
-         id="g16"
-         transform="translate(3.666667e-8,6.5803739)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           x="16.918903"
-           y="90.996239"
-           id="text2-8-82-4-3"><tspan
-             sodipodi:role="line"
-             id="tspan2-5-4-3-3"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-             x="16.918903"
-             y="90.996239">IMMUNITIES</tspan></text>
-        <path
-           id="rect2-2-3-1-71-5-8-3"
-           style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           d="M 43.569084,92.588827 H 11.544387 Z"
-           sodipodi:nodetypes="ccc" />
-      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="14.667545"
+         y="97.576614"
+         id="text2-8-82-4-3"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="14.667545"
+           y="97.576614">IMMUNITIES</tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-3"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 47.515667,99.169201 H 3.0950876 Z"
+         sodipodi:nodetypes="ccc" />
     </g>
     <g
        id="g32"
-       transform="translate(0,21.16666)">
+       transform="translate(-70.652756,-65.24431)">
       <path
          id="rect15-7-3"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -1355,7 +1353,7 @@
     </g>
     <g
        id="g54"
-       transform="translate(-46.597001,93.638159)">
+       transform="translate(-117.24977,7.2271871)">
       <path
          id="rect15-7-5"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -1384,179 +1382,32 @@
     </g>
     <g
        id="g55"
-       transform="translate(-3.1750001,21.166657)">
+       transform="translate(-363.51872,-68.333152)">
       <path
          id="rect15-7-5-9"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
-         d="M 96.220001,128.80824 H 207.02836 V 269.97903 H 96.220001 Z"
-         sodipodi:nodetypes="ccccc" />
-      <g
-         id="g30-8"
-         transform="translate(67.685397,60.854199)">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           x="74.676781"
-           y="71.89682"
-           id="text2-8-82-4-3-9-8-7"><tspan
-             sodipodi:role="line"
-             id="tspan2-5-4-3-3-3-2-3"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-             x="74.676781"
-             y="71.89682">FEATURES</tspan></text>
-        <path
-           id="rect2-2-3-1-71-5-8-3-5-5-0"
-           style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           d="M 136.19911,73.489411 H 30.620126 Z"
-           sodipodi:nodetypes="ccc" />
-      </g>
-    </g>
-    <g
-       id="g55-6"
-       transform="translate(-3.1750001,-7.9375177)">
-      <path
-         id="rect15-7-5-9-0"
-         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
-         d="M 96.220001,128.80824 H 207.02836 v 26.39538 H 96.220001 Z"
+         d="M 96.220001,128.80824 H 190.36113 V 273.06787 H 96.220001 Z"
          sodipodi:nodetypes="ccccc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         x="150.96484"
+         x="134.55772"
          y="132.75102"
-         id="text2-8-82-4-3-9-8-7-6"><tspan
+         id="text2-8-82-4-3-9-8-7"><tspan
            sodipodi:role="line"
-           id="tspan2-5-4-3-3-3-2-3-1"
+           id="tspan2-5-4-3-3-3-2-3"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-           x="150.96484"
-           y="132.75102"><tspan
-             style="text-align:center;text-anchor:middle"
-             id="tspan29">EQUIPMENT</tspan></tspan></text>
+           x="134.55772"
+           y="132.75102">FEATURES</tspan></text>
       <path
-         id="rect2-2-3-1-71-5-8-3-5-5-0-8"
+         id="rect2-2-3-1-71-5-8-3-5-5-0"
          style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="M 203.88451,134.34361 H 98.305523 Z"
-         sodipodi:nodetypes="ccc" />
-      <g
-         id="g12"
-         transform="translate(34.082126)">
-        <g
-           id="g2-78"
-           transform="translate(51.333989,114.26144)">
-          <text
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:end;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:end;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-             x="51.615475"
-             y="23.512255"
-             id="text2-8-5-1-0-8"><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-               x="51.615475"
-               y="23.512255"
-               id="tspan4">Augmentation</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-               x="51.615475"
-               y="27.426693"
-               id="tspan12">Enchantment</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-               x="51.615475"
-               y="31.341133"
-               id="tspan11">Kit</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-               x="51.615475"
-               y="35.255573"
-               id="tspan6">Prayer</tspan><tspan
-               sodipodi:role="line"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-               x="51.615475"
-               y="39.17001"
-               id="tspan9">Ward</tspan></text>
-        </g>
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect12"
-           width="2.5"
-           height="2.5"
-           x="98.910446"
-           y="135.7653" />
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect12-7"
-           width="2.5"
-           height="2.5"
-           x="98.910446"
-           y="139.66905" />
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect12-6"
-           width="2.5"
-           height="2.5"
-           x="98.929451"
-           y="151.38029" />
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect12-1"
-           width="2.5"
-           height="2.5"
-           x="98.910446"
-           y="143.5728" />
-        <rect
-           style="fill:none;stroke:#000000;stroke-width:0.245;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           id="rect12-4"
-           width="2.5"
-           height="2.5"
-           x="98.910446"
-           y="147.47655" />
-      </g>
-      <path
-         style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="m 155.84663,135.89623 0.0405,17.52567"
-         id="path5-9-0-7"
-         sodipodi:nodetypes="cc" />
-      <text
-         xml:space="preserve"
-         style="font-weight:bold;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         x="98.438011"
-         y="143.84865"
-         id="text14-9-3"><tspan
-           sodipodi:role="line"
-           id="tspan14-5-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.378"
-           x="98.438011"
-           y="143.84865">Armor</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:Domine;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
-         x="98.442589"
-         y="152.3156"
-         id="text16-1"><tspan
-           sodipodi:role="line"
-           id="tspan16-1"
-           style="text-align:start;text-anchor:start;stroke-width:0.378"
-           x="98.442589"
-           y="152.3156">Weapon/Implement</tspan></text>
-      <path
-         style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="m 130.1187,135.89623 0.0405,17.52567"
-         id="path5-9-0-7-5"
-         sodipodi:nodetypes="cc" />
-      <path
-         id="rect2-2-3-7-3-7-6-0"
-         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="M 127.35516,141.32108 H 98.632491 Z"
-         sodipodi:nodetypes="ccc" />
-      <path
-         id="rect2-2-3-7-3-7-6-0-6"
-         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="M 127.35516,149.7878 H 98.632491 Z"
+         d="M 188.27561,134.34361 H 98.305521 Z"
          sodipodi:nodetypes="ccc" />
     </g>
     <g
        id="g15-7"
-       transform="translate(-1.9175327,-7.4083337)">
+       transform="translate(-178.76329,78.68062)">
       <path
          id="rect15-81"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -1883,11 +1734,11 @@
     </g>
     <g
        id="g15-0"
-       transform="translate(153.62906,-6.8707227)">
+       transform="translate(-117.03665,-7.4789603)">
       <path
          id="rect15-8"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
-         d="M -7.810833,67.954048 H 50.224304 V 125.5165 H -7.810833 Z"
+         d="M -7.810833,67.954048 H 50.224304 V 151.97483 H -7.810833 Z"
          sodipodi:nodetypes="ccccc" />
       <text
          xml:space="preserve"
@@ -1913,7 +1764,7 @@
     </g>
     <g
        id="g52"
-       transform="translate(43.361602,-7.9375104)">
+       transform="translate(-27.291156,-94.348481)">
       <path
          id="rect15-7"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -1998,7 +1849,7 @@
     </g>
     <g
        id="g53"
-       transform="translate(-44.97939,-7.9374994)">
+       transform="translate(-115.63216,-94.34847)">
       <path
          id="rect15-7-1"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378002;stroke-linecap:round;paint-order:markers stroke fill"
@@ -2059,11 +1910,11 @@
     </g>
     <g
        id="g15-7-0"
-       transform="translate(95.077418,-6.8707227)">
+       transform="translate(-175.58829,-7.4789603)">
       <path
          id="rect15-81-6"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
-         d="M 4.8891668,67.954048 H 48.636802 V 125.5165 H 4.8891668 Z"
+         d="M 4.8891668,67.954048 H 48.636802 V 151.97483 H 4.8891668 Z"
          sodipodi:nodetypes="ccccc" />
       <text
          xml:space="preserve"
@@ -2084,7 +1935,7 @@
     </g>
     <g
        id="g15-7-0-3"
-       transform="translate(218.08284,-36.591511)">
+       transform="translate(140.19932,58.734313)">
       <path
          id="rect15-81-6-8"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -2109,7 +1960,7 @@
     </g>
     <g
        id="g15-7-0-3-3"
-       transform="translate(218.08284,43.312694)">
+       transform="translate(123.70848,-21.14457)">
       <path
          id="rect15-81-6-8-5"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -2150,7 +2001,7 @@
     </g>
     <g
        id="g15-7-0-3-3-8"
-       transform="translate(291.08953,43.312694)">
+       transform="translate(205.5836,58.734313)">
       <path
          id="rect15-81-6-8-5-2"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -2175,32 +2026,32 @@
     </g>
     <g
        id="g15-7-0-3-3-8-2"
-       transform="translate(291.08953,167.06392)">
+       transform="translate(44.027327,58.734313)">
       <path
          id="rect15-81-6-8-5-2-6-1"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
-         d="M 8.196459,67.954048 H 132.95248 V 124.08177 H 8.196459 Z"
+         d="M 8.196459,67.954048 H 101.20248 V 145.09567 H 8.196459 Z"
          sodipodi:nodetypes="ccccc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         x="70.577644"
+         x="54.702644"
          y="71.94622"
          id="text2-8-82-4-5-7-4-9-4-6"><tspan
            sodipodi:role="line"
            id="tspan2-5-4-3-8-5-9-9-5-8"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-           x="70.577644"
+           x="54.702644"
            y="71.94622">OTHER NOTES</tspan></text>
       <path
          id="rect2-2-3-1-71-5-8-61-0-2-8-5-5"
          style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="M 129.59532,73.538815 H 11.55362 Z"
+         d="M 97.84532,73.538815 H 11.55362 Z"
          sodipodi:nodetypes="ccc" />
     </g>
     <g
        id="g15-7-0-3-3-8-2-4"
-       transform="translate(291.08953,123.71555)">
+       transform="translate(205.93608,-64.018242)">
       <path
          id="rect15-81-6-8-5-2-6-1-3"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -2309,64 +2160,64 @@
     </g>
     <g
        id="g15-7-0-3-6"
-       transform="translate(218.08284,123.71555)">
+       transform="translate(50.509619,-35.077169)">
       <path
          id="rect15-81-6-8-0"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
-         d="M 8.064167,67.954048 H 78.270138 V 167.43014 H 8.064167 Z"
+         d="M 1.714167,67.954048 H 78.270138 V 158.96347 H 1.714167 Z"
          sodipodi:nodetypes="ccccc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         x="30.271893"
+         x="27.096889"
          y="71.94622"
          id="text2-8-82-4-5-7-4-3"><tspan
            sodipodi:role="line"
            id="tspan2-5-4-3-8-5-9-8"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-           x="30.271893"
+           x="27.096889"
            y="71.94622">COMPLICATION</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         x="37.442993"
+         x="34.26799"
          y="82.331367"
          id="text2-8-82-4-5-7-4-3-5"><tspan
            sodipodi:role="line"
            id="tspan2-5-4-3-8-5-9-8-8"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-           x="37.442993"
+           x="34.26799"
            y="82.331367">BENEFIT</tspan></text>
       <path
          id="rect2-2-3-1-71-5-8-61-0-2-0"
          style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="M 74.525334,73.538815 H 11.808971 Z"
+         d="M 74.525334,73.538815 H 5.458971 Z"
          sodipodi:nodetypes="ccc" />
       <path
          id="rect2-2-3-1-71-5-8-61-0-2-0-9"
          style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="M 62.883668,83.592988 H 23.450638 Z"
+         d="M 59.708668,83.592988 H 20.275638 Z"
          sodipodi:nodetypes="ccc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.46944px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         x="35.627949"
-         y="124.94933"
+         x="32.45295"
+         y="121.24516"
          id="text2-8-82-4-5-7-4-3-5-2"><tspan
            sodipodi:role="line"
            id="tspan2-5-4-3-8-5-9-8-8-5"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.46944px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-           x="35.627949"
-           y="124.94933">DRAWBACK</tspan></text>
+           x="32.45295"
+           y="121.24516">DRAWBACK</tspan></text>
       <path
          id="rect2-2-3-1-71-5-8-61-0-2-0-9-8"
          style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         d="M 62.883668,126.21104 H 23.450638 Z"
+         d="M 59.708668,122.50685 H 20.275638 Z"
          sodipodi:nodetypes="ccc" />
     </g>
     <g
        id="g65"
-       transform="translate(93.009462,-56.643796)">
+       transform="translate(6.938725,-41.145893)">
       <path
          id="rect15-81-6-8-5-3"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -2391,7 +2242,7 @@
     </g>
     <g
        id="g65-3"
-       transform="translate(192.01789,-71.942334)">
+       transform="translate(110.20994,-69.205265)">
       <path
          id="rect2-2-3-7-3-7-6-8"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
@@ -2407,7 +2258,7 @@
          d="M 314.70101,111.57618 H 275.88884 Z"
          sodipodi:nodetypes="ccc" />
       <path
-         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill;stroke-dasharray:none"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
          d="m 308.33655,88.136659 v 8.32221 h 9.15856"
          id="path11"
          sodipodi:nodetypes="ccc" />
@@ -2484,7 +2335,7 @@
     </g>
     <g
        id="g65-8"
-       transform="translate(10.988575,-56.643796)">
+       transform="translate(-75.256114,-41.145893)">
       <path
          id="rect15-81-6-8-5-3-6"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -2509,7 +2360,7 @@
     </g>
     <g
        id="g65-8-5"
-       transform="translate(120.82437,-56.643796)">
+       transform="translate(35.050714,-41.145893)">
       <path
          id="rect15-81-6-8-5-3-6-2"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -2534,7 +2385,7 @@
     </g>
     <g
        id="g2-5"
-       transform="translate(163.78107,5.3480223)"
+       transform="translate(-9.5666296,5.3480226)"
        inkscape:label="Subclass Top">
       <path
          id="rect2-2-3-4"
@@ -2555,7 +2406,7 @@
     </g>
     <g
        id="g2-0-8"
-       transform="translate(116.43782,5.3480223)"
+       transform="translate(-56.909881,5.3480226)"
        inkscape:label="Subclass Top">
       <path
          id="rect2-2-3-9-7"
@@ -2576,7 +2427,7 @@
     </g>
     <g
        id="g2-7-8-7"
-       transform="translate(211.18463,5.2658325)"
+       transform="translate(38.239762,5.3480226)"
        inkscape:label="Subclass Top">
       <path
          id="rect2-2-3-7-3-7"
@@ -2598,17 +2449,17 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       x="225.63846"
-       y="11.365283"
+       x="52.290756"
+       y="11.365282"
        id="text2-8-82-4-5-7-4-5"><tspan
          sodipodi:role="line"
          id="tspan2-5-4-3-8-5-9-0"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Domine;-inkscape-font-specification:'Domine Bold';writing-mode:lr-tb;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-         x="225.63846"
-         y="11.365283">Identity</tspan></text>
+         x="52.290756"
+         y="11.365282">Identity</tspan></text>
     <g
        id="g65-1"
-       transform="translate(121.90737,22.202074)">
+       transform="translate(36.895164,37.623695)">
       <path
          id="rect15-81-6-8-5-3-2"
          style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
@@ -2634,120 +2485,174 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       x="5.6066499"
+       x="-265.05905"
        y="10.984"
        id="text2-8-82-4-5-7-4-5-4"><tspan
          sodipodi:role="line"
          id="tspan2-5-4-3-8-5-9-0-3"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Domine;-inkscape-font-specification:'Domine Bold';writing-mode:lr-tb;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-         x="5.6066499"
+         x="-265.05905"
          y="10.984">Hero</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       x="445.68057"
-       y="10.984"
+       x="363.87262"
+       y="13.721069"
        id="text2-8-82-4-5-7-4-5-4-8"><tspan
          sodipodi:role="line"
          id="tspan2-5-4-3-8-5-9-0-3-7"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Domine;-inkscape-font-specification:'Domine Bold';writing-mode:lr-tb;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-         x="445.68057"
-         y="10.984">Abilities 1</tspan></text>
+         x="363.87262"
+         y="13.721069">Abilities 1</tspan></text>
     <use
        id="use4"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(67.105215)" />
+       transform="translate(73.19125)" />
     <use
        id="use5"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(134.21043)" />
-    <use
-       id="use5-63"
-       inkscape:spray-origin="#g65-3"
-       xlink:href="#g65-3"
-       transform="translate(220.00014)" />
+       transform="translate(146.3825)" />
     <use
        id="use6"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(0,92.355305)" />
+       transform="translate(0,95.530307)" />
     <use
        id="use7"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(67.105215,92.355305)" />
+       transform="translate(73.25761,95.530307)" />
     <use
        id="use8"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(134.21043,92.355305)" />
-    <use
-       id="use9"
-       inkscape:spray-origin="#g65-3"
-       xlink:href="#g65-3"
-       transform="translate(134.21043,184.71061)" />
+       transform="translate(146.51522,95.530307)" />
     <use
        id="use10"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(67.105215,184.71061)" />
+       transform="translate(219.77283,95.530307)" />
     <use
        id="use11"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(0,184.71061)" />
+       transform="translate(219.57375)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.35px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       x="665.68066"
-       y="10.984"
+       x="740.4939"
+       y="15.8499"
        id="text2-8-82-4-5-7-4-5-4-8-8"><tspan
          sodipodi:role="line"
          id="tspan2-5-4-3-8-5-9-0-3-7-3"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Domine;-inkscape-font-specification:'Domine Bold';writing-mode:lr-tb;baseline-shift:baseline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
-         x="665.68066"
-         y="10.984">Abilities 2</tspan></text>
+         x="740.4939"
+         y="15.8499">Abilities 2</tspan></text>
+    <g
+       id="g55-6"
+       transform="translate(-160.61161,-122.78285)">
+      <path
+         id="rect15-7-5-9-0"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;paint-order:markers stroke fill"
+         d="m 96.220001,128.80824 h 84.463609 v 26.39538 H 96.220001 Z"
+         sodipodi:nodetypes="ccccc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:normal;font-family:Brawler;-inkscape-font-specification:Brawler;text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.38;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         x="138.43275"
+         y="132.75102"
+         id="text2-8-82-4-3-9-8-7-6"><tspan
+           sodipodi:role="line"
+           id="tspan2-5-4-3-3-3-2-3-1"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Domine;-inkscape-font-specification:'Domine Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38"
+           x="138.43275"
+           y="132.75102"><tspan
+             style="text-align:center;text-anchor:middle"
+             id="tspan29">EQUIPMENT</tspan></tspan></text>
+      <path
+         id="rect2-2-3-1-71-5-8-3-5-5-0-8"
+         style="fill:none;stroke:#cccccc;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 178.35275,134.34361 H 98.550866 Z"
+         sodipodi:nodetypes="ccc" />
+      <text
+         xml:space="preserve"
+         style="font-weight:bold;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:'Domine Bold';text-align:start;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#7b7b7b;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         x="98.438011"
+         y="143.84865"
+         id="text14-9-3"><tspan
+           sodipodi:role="line"
+           id="tspan14-5-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Domine;-inkscape-font-specification:Domine;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.378"
+           x="98.438011"
+           y="143.84865">Armor</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.29306px;line-height:1.7;font-family:Domine;-inkscape-font-specification:Domine;text-align:center;text-decoration-color:#000000;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.378;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill"
+         x="98.442589"
+         y="152.3156"
+         id="text16-1"><tspan
+           sodipodi:role="line"
+           id="tspan16-1"
+           style="text-align:start;text-anchor:start;stroke-width:0.378"
+           x="98.442589"
+           y="152.3156">Weapon/Implement</tspan></text>
+      <path
+         style="fill:none;fill-opacity:1;stroke:#cccccc;stroke-width:0.244789;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="m 130.1187,135.89623 0.0405,17.52567"
+         id="path5-9-0-7-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         id="rect2-2-3-7-3-7-6-0"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 127.35516,141.32108 H 98.632491 Z"
+         sodipodi:nodetypes="ccc" />
+      <path
+         id="rect2-2-3-7-3-7-6-0-6"
+         style="fill:none;stroke:#7b7b7b;stroke-width:0.208;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+         d="M 127.35516,149.7878 H 98.632491 Z"
+         sodipodi:nodetypes="ccc" />
+    </g>
     <use
-       id="use4-7"
+       id="use4-4"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(287.10535)" />
+       transform="translate(449.81237,2.1287592)" />
     <use
-       id="use5-6"
+       id="use4-4-8"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(354.21057)" />
+       transform="translate(376.62112,2.1287592)" />
     <use
-       id="use6-6"
+       id="use5-3"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(220.00014,92.355305)" />
+       transform="translate(523.00362,2.1287592)" />
     <use
-       id="use7-5"
+       id="use6-1"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(287.10535,92.355305)" />
+       transform="translate(376.62112,97.659066)" />
     <use
-       id="use8-8"
+       id="use7-2"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(354.21057,92.355305)" />
+       transform="translate(449.87873,97.659066)" />
     <use
-       id="use9-2"
+       id="use8-3"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(354.21057,184.71061)" />
+       transform="translate(523.13634,97.659066)" />
     <use
-       id="use10-5"
+       id="use10-3"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(287.10535,184.71061)" />
+       transform="translate(596.39395,97.659066)" />
     <use
        id="use11-4"
        inkscape:spray-origin="#g65-3"
        xlink:href="#g65-3"
-       transform="translate(220.00014,184.71061)" />
+       transform="translate(596.19487,2.1287592)" />
   </g>
 </svg>
